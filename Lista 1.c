@@ -16,12 +16,7 @@ int main() {
 	B = C;
 	printf("Os valores são: %d e %d", A, B);
 	
-	printf("\n------------EXERCICIO 2------------\n");
-	float K, M;
-	printf("\nQual a velocidade de em km/h: \n");
-	scanf("%f", &K);
-	M = K/36;
-	printf("%.1f km/h convertido em metros e %.2f m/s",K,M);
+	printf("\n---------------\n| Exercício 2 |\n---------------\n");
 	
 	printf("\n---------------\n| Exercício 3 |\n---------------\n");
 	int D, res, b64, b32, b16, b8, b4, b2, b1;
